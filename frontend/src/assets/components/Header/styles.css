@@ -1,0 +1,27 @@
+header{
+    background: linear-gradient(90deg, #102347 0%, #181818 100%);
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lp2-logo-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lp2-logo-container img{
+    width: 235px;
+}
+
+.lp2-logo-container h1{
+    margin: 15px;
+    font-size: 24px;
+}
+
+.lp2-logo-container p{
+    margin: 14px;
+    font-weight: 300;
+}
